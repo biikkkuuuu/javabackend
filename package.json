@@ -1,0 +1,16 @@
+{
+  "name": "backendjavaa",
+  "version": "1.0.0",
+  "description": "java backend",
+  "keywords": [
+    "java",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "RANA",
+  "type": "javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
